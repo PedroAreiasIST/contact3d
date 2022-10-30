@@ -1,0 +1,1032 @@
+400 0 9 0 
+18 GiD-Sat translator 11 ACIS 5.0 NT 24 Sun Oct 30 19:46:40 2022 
+-1 1e-06 1e-10 
+-0 body $-1 $228 $-1 $-1 #
+-1 body $-1 $266 $-1 $-1 #
+-2 body $-1 $296 $-1 $-1 #
+-3 body $-1 $326 $-1 $-1 #
+-4 body $-1 $364 $-1 $-1 #
+-5 body $-1 $386 $-1 $-1 #
+-6 body $-1 $408 $-1 $-1 #
+-7 body $-1 $430 $-1 $-1 #
+-8 body $-1 $452 $-1 $-1 #
+-9 point $-1 -5 3 0 #
+-10 vertex $-1 $105 $9 #
+-11 point $-1 5 3 0 #
+-12 vertex $-1 $107 $11 #
+-13 point $-1 -1.2 2.7 6 #
+-14 vertex $-1 $177 $13 #
+-15 point $-1 0.686011 -0.566667 6 #
+-16 vertex $-1 $171 $15 #
+-17 point $-1 -3.08601 -0.566667 6 #
+-18 vertex $-1 $169 $17 #
+-19 point $-1 -5 5 0 #
+-20 vertex $-1 $109 $19 #
+-21 point $-1 5 5 0 #
+-22 vertex $-1 $111 $21 #
+-23 point $-1 -0.409499 -1.93409 6 #
+-24 vertex $-1 $127 $23 #
+-25 point $-1 -3.36591 -0.709499 6 #
+-26 vertex $-1 $123 $25 #
+-27 point $-1 -4.5905 -3.66591 6 #
+-28 vertex $-1 $129 $27 #
+-29 point $-1 -1.63409 -4.8905 6 #
+-30 vertex $-1 $131 $29 #
+-31 point $-1 -5 3 12 #
+-32 vertex $-1 $105 $31 #
+-33 point $-1 5 3 12 #
+-34 vertex $-1 $107 $33 #
+-35 point $-1 -5 5 12 #
+-36 vertex $-1 $109 $35 #
+-37 point $-1 5 5 12 #
+-38 vertex $-1 $111 $37 #
+-39 point $-1 -4.54877 -3.56518 6.82822 #
+-40 vertex $-1 $119 $39 #
+-41 point $-1 -1.59236 -4.78976 6.82822 #
+-42 vertex $-1 $121 $41 #
+-43 point $-1 -4.54877 -3.56518 5.17178 #
+-44 vertex $-1 $129 $43 #
+-45 point $-1 -1.59236 -4.78976 5.17178 #
+-46 vertex $-1 $131 $45 #
+-47 point $-1 -5 -7 0 #
+-48 vertex $-1 $149 $47 #
+-49 point $-1 5 -7 0 #
+-50 vertex $-1 $151 $49 #
+-51 point $-1 -5 -5 0 #
+-52 vertex $-1 $153 $51 #
+-53 point $-1 5 -5 0 #
+-54 vertex $-1 $155 $53 #
+-55 point $-1 -5 -7 12 #
+-56 vertex $-1 $149 $55 #
+-57 point $-1 5 -7 12 #
+-58 vertex $-1 $151 $57 #
+-59 point $-1 -5 -5 12 #
+-60 vertex $-1 $153 $59 #
+-61 point $-1 5 -5 12 #
+-62 vertex $-1 $155 $61 #
+-63 point $-1 -1.2 -0.566667 7.88601 #
+-64 vertex $-1 $173 $63 #
+-65 point $-1 -1.2 -0.566667 4.11399 #
+-66 vertex $-1 $175 $65 #
+-67 point $-1 -1.2 -0.566667 6 #
+-68 vertex $-1 $177 $67 #
+-69 point $-1 3.73205 -2.4641 4 #
+-70 vertex $-1 $187 $69 #
+-71 point $-1 1.23205 1.86603 4 #
+-72 vertex $-1 $189 $71 #
+-73 point $-1 3.73205 -2.4641 2 #
+-74 vertex $-1 $187 $73 #
+-75 point $-1 1.23205 1.86603 2 #
+-76 vertex $-1 $189 $75 #
+-77 edge $-1 $24 $26 $273 $78 forward #
+-78 straight-curve $-1 -1.88771 -1.32179 6 -0.92388 0.382683 0 I I #
+-79 edge $-1 $26 $28 $272 $80 forward #
+-80 straight-curve $-1 -3.97821 -2.18771 6 -0.382683 -0.92388 0 I I #
+-81 edge $-1 $28 $30 $271 $82 forward #
+-82 straight-curve $-1 -3.11229 -4.27821 6 0.92388 -0.382683 0 I I #
+-83 edge $-1 $30 $24 $270 $84 forward #
+-84 straight-curve $-1 -1.02179 -3.41229 6 0.382683 0.92388 0 I I #
+-85 edge $-1 $12 $10 $232 $86 forward #
+-86 straight-curve $-1 8.88178e-16 3 0 -1 0 0 I I #
+-87 edge $-1 $16 $14 $370 $88 forward #
+-88 straight-curve $-1 -0.256995 1.06667 6 -0.5 0.866025 0 I I #
+-89 edge $-1 $14 $18 $413 $90 forward #
+-90 straight-curve $-1 -2.14301 1.06667 6 -0.5 -0.866025 0 I I #
+-91 edge $-1 $22 $20 $234 $92 forward #
+-92 straight-curve $-1 8.88178e-16 5 0 -1 0 0 I I #
+-93 edge $-1 $20 $10 $233 $94 forward #
+-94 straight-curve $-1 -5 4 0 0 -1 0 I I #
+-95 edge $-1 $12 $22 $235 $96 forward #
+-96 straight-curve $-1 5 4 0 0 1 0 I I #
+-97 edge $-1 $34 $32 $257 $98 forward #
+-98 straight-curve $-1 8.88178e-16 3 12 -1 0 0 I I #
+-99 edge $-1 $38 $36 $246 $100 forward #
+-100 straight-curve $-1 8.88178e-16 5 12 -1 0 0 I I #
+-101 edge $-1 $36 $32 $252 $102 forward #
+-102 straight-curve $-1 -5 4 12 0 -1 0 I I #
+-103 edge $-1 $34 $38 $240 $104 forward #
+-104 straight-curve $-1 5 4 12 0 1 0 I I #
+-105 edge $-1 $10 $32 $251 $106 forward #
+-106 straight-curve $-1 -5 3 6 0 0 1 I I #
+-107 edge $-1 $12 $34 $241 $108 forward #
+-108 straight-curve $-1 5 3 6 0 0 1 I I #
+-109 edge $-1 $20 $36 $245 $110 forward #
+-110 straight-curve $-1 -5 5 6 0 0 1 I I #
+-111 edge $-1 $22 $38 $239 $112 forward #
+-112 straight-curve $-1 5 5 6 0 0 1 I I #
+-113 edge $-1 $26 $40 $277 $114 forward #
+-114 straight-curve $-1 -3.95734 -2.13734 6.41411 -0.369644 -0.892399 0.258819 I I #
+-115 edge $-1 $40 $42 $278 $116 forward #
+-116 straight-curve $-1 -3.07057 -4.17747 6.82822 0.92388 -0.382683 0 I I #
+-117 edge $-1 $42 $24 $279 $118 forward #
+-118 straight-curve $-1 -1.00093 -3.36192 6.41411 0.369644 0.892399 -0.258819 I I #
+-119 edge $-1 $28 $40 $283 $120 forward #
+-120 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-4.5905 -3.66591 6 1 
+-4.5905 -3.66591 6.42129 0.991445 
+-4.54877 -3.56518 6.82822 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-121 edge $-1 $30 $42 $288 $122 forward #
+-122 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-1.63409 -4.8905 6 1 
+-1.63409 -4.8905 6.42129 0.991445 
+-1.59236 -4.78976 6.82822 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-123 edge $-1 $26 $44 $308 $124 forward #
+-124 straight-curve $-1 -3.95734 -2.13734 5.58589 -0.369644 -0.892399 -0.258819 I I #
+-125 edge $-1 $44 $46 $307 $126 forward #
+-126 straight-curve $-1 -3.07057 -4.17747 5.17178 0.92388 -0.382683 0 I I #
+-127 edge $-1 $46 $24 $306 $128 forward #
+-128 straight-curve $-1 -1.00093 -3.36192 5.58589 0.369644 0.892399 0.258819 I I #
+-129 edge $-1 $28 $44 $313 $130 forward #
+-130 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-4.5905 -3.66591 6 1 
+-4.5905 -3.66591 5.57871 0.991445 
+-4.54877 -3.56518 5.17178 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-131 edge $-1 $30 $46 $319 $132 forward #
+-132 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-1.63409 -4.8905 6 1 
+-1.63409 -4.8905 5.57871 0.991445 
+-1.59236 -4.78976 5.17178 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-133 edge $-1 $50 $48 $330 $134 forward #
+-134 straight-curve $-1 8.88178e-16 -7 0 -1 0 0 I I #
+-135 edge $-1 $54 $52 $332 $136 forward #
+-136 straight-curve $-1 8.88178e-16 -5 0 -1 0 0 I I #
+-137 edge $-1 $52 $48 $331 $138 forward #
+-138 straight-curve $-1 -5 -6 0 0 -1 0 I I #
+-139 edge $-1 $50 $54 $333 $140 forward #
+-140 straight-curve $-1 5 -6 0 0 1 0 I I #
+-141 edge $-1 $58 $56 $355 $142 forward #
+-142 straight-curve $-1 8.88178e-16 -7 12 -1 0 0 I I #
+-143 edge $-1 $62 $60 $344 $144 forward #
+-144 straight-curve $-1 8.88178e-16 -5 12 -1 0 0 I I #
+-145 edge $-1 $60 $56 $350 $146 forward #
+-146 straight-curve $-1 -5 -6 12 0 -1 0 I I #
+-147 edge $-1 $58 $62 $338 $148 forward #
+-148 straight-curve $-1 5 -6 12 0 1 0 I I #
+-149 edge $-1 $48 $56 $349 $150 forward #
+-150 straight-curve $-1 -5 -7 6 0 0 1 I I #
+-151 edge $-1 $50 $58 $339 $152 forward #
+-152 straight-curve $-1 5 -7 6 0 0 1 I I #
+-153 edge $-1 $52 $60 $343 $154 forward #
+-154 straight-curve $-1 -5 -5 6 0 0 1 I I #
+-155 edge $-1 $54 $62 $337 $156 forward #
+-156 straight-curve $-1 5 -5 6 0 0 1 I I #
+-157 edge $-1 $16 $64 $392 $158 forward #
+-158 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+0.686011 -0.566667 6 1 
+0.686011 -0.566667 7.88601 0.707107 
+-1.2 -0.566667 7.88601 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-159 edge $-1 $64 $18 $414 $160 forward #
+-160 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-1.2 -0.566667 7.88601 1 
+-3.08601 -0.566667 7.88601 0.707107 
+-3.08601 -0.566667 6 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-161 edge $-1 $18 $66 $435 $162 forward #
+-162 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-3.08601 -0.566667 6 1 
+-3.08601 -0.566667 4.11399 0.707107 
+-1.2 -0.566667 4.11399 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-163 edge $-1 $66 $16 $368 $164 forward #
+-164 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 2 
+0 2 1 2 
+-1.2 -0.566667 4.11399 1 
+0.686011 -0.566667 4.11399 0.707107 
+0.686011 -0.566667 6 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-165 edge $-1 $64 $14 $391 $166 forward #
+-166 straight-curve $-1 -1.2 1.06667 6.94301 -2.35465e-16 0.866025 -0.5 I I #
+-167 edge $-1 $14 $66 $369 $168 forward #
+-168 straight-curve $-1 -1.2 1.06667 5.05699 1.17732e-16 -0.866025 -0.5 I I #
+-169 edge $-1 $18 $68 $423 $170 forward #
+-170 straight-curve $-1 -2.14301 -0.566667 6 1 0 0 I I #
+-171 edge $-1 $68 $16 $375 $172 forward #
+-172 straight-curve $-1 -0.256995 -0.566667 6 1 0 0 I I #
+-173 edge $-1 $64 $68 $402 $174 forward #
+-174 straight-curve $-1 -1.2 -0.566667 6.94301 0 0 -1 I I #
+-175 edge $-1 $68 $66 $379 $176 forward #
+-176 straight-curve $-1 -1.2 -0.566667 5.05699 0 0 -1 I I #
+-177 edge $-1 $68 $14 $374 $178 forward #
+-178 straight-curve $-1 -1.2 1.06667 6 0 1 0 I I #
+-179 edge $-1 $70 $72 $459 $180 forward #
+-180 straight-curve $-1 2.48205 -0.299038 4 -0.5 0.866025 0 I I #
+-181 edge $-1 $74 $76 $457 $182 forward #
+-182 straight-curve $-1 2.48205 -0.299038 2 -0.5 0.866025 0 I I #
+-183 edge $-1 $70 $74 $456 $184 forward #
+-184 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 3 
+0 2 0.5 2 1 2 
+3.73205 -2.4641 4 1 
+4.59808 -1.9641 4 0.707107 
+4.59808 -1.9641 3 1 
+4.59808 -1.9641 2 0.707107 
+3.73205 -2.4641 2 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-185 edge $-1 $72 $76 $458 $186 forward #
+-186 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 3 
+0 2 0.5 2 1 2 
+1.23205 1.86603 4 1 
+2.09808 2.36603 4 0.707107 
+2.09808 2.36603 3 1 
+2.09808 2.36603 2 0.707107 
+1.23205 1.86603 2 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-187 edge $-1 $74 $70 $462 $188 forward #
+-188 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 3 
+0 2 0.5 2 1 2 
+3.73205 -2.4641 2 1 
+2.86603 -2.9641 2 0.707107 
+2.86603 -2.9641 3 1 
+2.86603 -2.9641 4 0.707107 
+3.73205 -2.4641 4 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-189 edge $-1 $76 $72 $464 $190 forward #
+-190 intcurve-curve $-1 forward { exactcur nurbs 2 periodic 3 
+0 2 0.5 2 1 2 
+1.23205 1.86603 2 1 
+0.366025 1.36603 2 0.707107 
+0.366025 1.36603 3 1 
+0.366025 1.36603 4 0.707107 
+1.23205 1.86603 4 1 
+0 
+null_surface 
+null_surface 
+nullbs 
+nullbs 
+I I 
+0 0 0 
+F 0 F 1 } F 0 F 1 #
+-191 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.54749 -5.09955 6 
+-0.200449 -1.84749 6 
+-4.79955 -3.75251 6 
+-3.45251 -0.500449 6 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-192 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5.5125 2.9 0 
+5.7625 2.9 0 
+-5.5125 5.1 0 
+5.7625 5.1 0 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-193 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 3 0 
+-5 3 0 
+5 3 12 
+-5 3 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-194 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 5 0 
+-5 5 0 
+5 5 12 
+-5 5 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-195 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5 5 0 
+-5 3 0 
+-5 5 12 
+-5 3 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-196 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 3 0 
+5 5 0 
+5 3 12 
+5 5 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-197 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5.5125 2.9 12 
+5.7625 2.9 12 
+-5.5125 5.1 12 
+5.7625 5.1 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-198 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-3.36591 -0.709499 6 1 
+-4.5905 -3.66591 6 1 
+-3.36591 -0.709499 6 0.991445 
+-4.5905 -3.66591 6.42129 0.991445 
+-3.36591 -0.709499 6 1 
+-4.54877 -3.56518 6.82822 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-199 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-4.5905 -3.66591 6 1 
+-1.63409 -4.8905 6 1 
+-4.5905 -3.66591 6.42129 0.991445 
+-1.63409 -4.8905 6.42129 0.991445 
+-4.54877 -3.56518 6.82822 1 
+-1.59236 -4.78976 6.82822 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-200 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-1.63409 -4.8905 6 1 
+-0.409499 -1.93409 6 1 
+-1.63409 -4.8905 6.42129 0.991445 
+-0.409499 -1.93409 6 0.991445 
+-1.59236 -4.78976 6.82822 1 
+-0.409499 -1.93409 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-201 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.50368 -4.99378 6.86963 
+-0.202536 -1.85253 5.95859 
+-4.75574 -3.64673 6.86963 
+-3.45459 -0.505486 5.95859 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-202 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-3.36591 -0.709499 6 1 
+-4.5905 -3.66591 6 1 
+-3.36591 -0.709499 6 0.991445 
+-4.5905 -3.66591 5.57871 0.991445 
+-3.36591 -0.709499 6 1 
+-4.54877 -3.56518 5.17178 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-203 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-4.5905 -3.66591 6 1 
+-1.63409 -4.8905 6 1 
+-4.5905 -3.66591 5.57871 0.991445 
+-1.63409 -4.8905 5.57871 0.991445 
+-4.54877 -3.56518 5.17178 1 
+-1.59236 -4.78976 5.17178 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-204 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-1.63409 -4.8905 6 1 
+-0.409499 -1.93409 6 1 
+-1.63409 -4.8905 5.57871 0.991445 
+-0.409499 -1.93409 6 0.991445 
+-1.59236 -4.78976 5.17178 1 
+-0.409499 -1.93409 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-205 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.50368 -4.99378 5.13037 
+-0.202536 -1.85253 6.04141 
+-4.75574 -3.64673 5.13037 
+-3.45459 -0.505486 6.04141 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-206 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5.5125 -7.1 0 
+5.7625 -7.1 0 
+-5.5125 -4.9 0 
+5.7625 -4.9 0 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-207 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 -7 0 
+-5 -7 0 
+5 -7 12 
+-5 -7 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-208 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 -5 0 
+-5 -5 0 
+5 -5 12 
+-5 -5 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-209 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5 -5 0 
+-5 -7 0 
+-5 -5 12 
+-5 -7 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-210 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+5 -7 0 
+5 -5 0 
+5 -7 12 
+5 -5 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-211 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-5.5125 -7.1 12 
+5.7625 -7.1 12 
+-5.5125 -4.9 12 
+5.7625 -4.9 12 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-212 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+0.686011 -0.566667 6 1 
+-0.256995 1.06667 6 1 
+0.686011 -0.566667 7.88601 0.707107 
+-0.728497 1.88333 6 1 
+-1.2 -0.566667 7.88601 1 
+-1.2 2.7 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-213 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+-1.2 -0.566667 7.88601 1 
+-1.2 1.06667 6.94301 1 
+-3.08601 -0.566667 7.88601 0.707107 
+-1.2 1.88333 6.4715 1 
+-3.08601 -0.566667 6 1 
+-1.2 2.7 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-214 spline-surface $-1 forward { exactsur nurbs 2 1 both open open none none 2 2 
+0 2 1 2 
+0 1 1 1 
+-1.2 2.7 6 1 
+-1.6715 1.88333 6 1 
+-2.14301 1.06667 6 1 
+-1.2 -0.566667 4.11399 1 
+-3.08601 -0.566667 4.11399 0.707107 
+-3.08601 -0.566667 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-215 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 2 
+0 1 1 1 
+0 2 1 2 
+0.686011 -0.566667 6 1 
+-0.256995 1.06667 6 1 
+0.686011 -0.566667 4.11399 0.707107 
+-0.728497 1.88333 6 1 
+-1.2 -0.566667 4.11399 1 
+-1.2 2.7 6 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-216 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.9544 -1.808 6 
+0.811745 -1.808 6 
+-1.9544 2.74356 6 
+0.811745 2.74356 6 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-217 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-3.21174 -1.87333 6 
+-0.445596 -1.87333 6 
+-3.21174 2.91778 6 
+-0.445596 2.91778 6 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-218 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+0.803361 -0.566667 5.42165 
+-1.77835 -0.566667 5.42165 
+0.803361 -0.566667 8.00336 
+-1.77835 -0.566667 8.00336 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-219 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-0.621655 -0.566667 5.48767 
+-3.20336 -0.566667 5.48767 
+-0.621655 -0.566667 8.00022 
+-3.20336 -0.566667 8.00022 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-220 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-0.687665 -0.566667 3.99883 
+-3.20022 -0.566667 3.99883 
+-0.687665 -0.566667 6.63902 
+-3.20022 -0.566667 6.63902 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-221 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+0.80117 -0.566667 3.99664 
+-1.83902 -0.566667 3.99664 
+0.80117 -0.566667 6.57835 
+-1.83902 -0.566667 6.57835 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-222 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.2 -1.808 5.31161 
+-1.2 2.74356 5.31161 
+-1.2 -1.808 8.0086 
+-1.2 2.74356 8.0086 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-223 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+-1.2 -1.87333 4.08884 
+-1.2 2.91778 4.08884 
+-1.2 -1.87333 6.71668 
+-1.2 2.91778 6.71668 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-224 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 3 
+0 1 1 1 
+0 2 0.5 2 1 2 
+3.73205 -2.4641 4 1 
+1.23205 1.86603 4 1 
+4.59808 -1.9641 4 0.707107 
+2.09808 2.36603 4 0.707107 
+4.59808 -1.9641 3 1 
+2.09808 2.36603 3 1 
+4.59808 -1.9641 2 0.707107 
+2.09808 2.36603 2 0.707107 
+3.73205 -2.4641 2 1 
+1.23205 1.86603 2 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-225 spline-surface $-1 forward { exactsur nurbs 1 2 both open open none none 2 3 
+0 1 1 1 
+0 2 0.5 2 1 2 
+3.73205 -2.4641 2 1 
+1.23205 1.86603 2 1 
+2.86603 -2.9641 2 0.707107 
+0.366025 1.36603 2 0.707107 
+2.86603 -2.9641 3 1 
+0.366025 1.36603 3 1 
+2.86603 -2.9641 4 0.707107 
+0.366025 1.36603 4 0.707107 
+3.73205 -2.4641 4 1 
+1.23205 1.86603 4 1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-226 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+4.68468 -1.9141 1.9 
+2.77942 -3.0141 1.9 
+4.68468 -1.9141 4.1 
+2.77942 -3.0141 4.1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-227 spline-surface $-1 forward { exactsur nubs 1 1 open open none none 2 2 
+0 1 1 1 
+0 1 1 1 
+2.18468 2.41603 1.9 
+0.279423 1.31603 1.9 
+2.18468 2.41603 4.1 
+0.279423 1.31603 4.1 
+0 
+0 0 0 
+0 0 0 
+F 0 F 1 F 0 F 1 } F 0 F 1 F 0 F 1 #
+-228 lump $-1 $-1 $229 $0 #
+-229 shell $-1 $-1 $-1 $230 $-1 $228 #
+-230 face $-1 $236 $231 $229 $-1 $192 reversed single #
+-231 loop $-1 $-1 $232 $230 #
+-232 coedge $-1 $233 $235 $259 $85 forward $231 $-1 #
+-233 coedge $-1 $234 $232 $250 $93 reversed $231 $-1 #
+-234 coedge $-1 $235 $233 $244 $91 reversed $231 $-1 #
+-235 coedge $-1 $232 $234 $238 $95 reversed $231 $-1 #
+-236 face $-1 $242 $237 $229 $-1 $196 forward single #
+-237 loop $-1 $-1 $238 $236 #
+-238 coedge $-1 $239 $241 $235 $95 forward $237 $-1 #
+-239 coedge $-1 $240 $238 $247 $111 forward $237 $-1 #
+-240 coedge $-1 $241 $239 $262 $103 reversed $237 $-1 #
+-241 coedge $-1 $238 $240 $256 $107 reversed $237 $-1 #
+-242 face $-1 $248 $243 $229 $-1 $194 forward single #
+-243 loop $-1 $-1 $244 $242 #
+-244 coedge $-1 $245 $247 $234 $91 forward $243 $-1 #
+-245 coedge $-1 $246 $244 $253 $109 forward $243 $-1 #
+-246 coedge $-1 $247 $245 $263 $99 reversed $243 $-1 #
+-247 coedge $-1 $244 $246 $239 $111 reversed $243 $-1 #
+-248 face $-1 $254 $249 $229 $-1 $195 forward single #
+-249 loop $-1 $-1 $250 $248 #
+-250 coedge $-1 $251 $253 $233 $93 forward $249 $-1 #
+-251 coedge $-1 $252 $250 $258 $105 forward $249 $-1 #
+-252 coedge $-1 $253 $251 $264 $101 reversed $249 $-1 #
+-253 coedge $-1 $250 $252 $245 $109 reversed $249 $-1 #
+-254 face $-1 $260 $255 $229 $-1 $193 reversed single #
+-255 loop $-1 $-1 $256 $254 #
+-256 coedge $-1 $257 $259 $241 $107 forward $255 $-1 #
+-257 coedge $-1 $258 $256 $265 $97 forward $255 $-1 #
+-258 coedge $-1 $259 $257 $251 $105 reversed $255 $-1 #
+-259 coedge $-1 $256 $258 $232 $85 reversed $255 $-1 #
+-260 face $-1 $-1 $261 $229 $-1 $197 forward single #
+-261 loop $-1 $-1 $262 $260 #
+-262 coedge $-1 $263 $265 $240 $103 forward $261 $-1 #
+-263 coedge $-1 $264 $262 $246 $99 forward $261 $-1 #
+-264 coedge $-1 $265 $263 $252 $101 forward $261 $-1 #
+-265 coedge $-1 $262 $264 $257 $97 reversed $261 $-1 #
+-266 lump $-1 $-1 $267 $1 #
+-267 shell $-1 $-1 $-1 $268 $-1 $266 #
+-268 face $-1 $274 $269 $267 $-1 $191 reversed single #
+-269 loop $-1 $-1 $270 $268 #
+-270 coedge $-1 $271 $273 $325 $83 reversed $269 $-1 #
+-271 coedge $-1 $272 $270 $320 $81 reversed $269 $-1 #
+-272 coedge $-1 $273 $271 $314 $79 reversed $269 $-1 #
+-273 coedge $-1 $270 $272 $309 $77 reversed $269 $-1 #
+-274 face $-1 $280 $275 $267 $-1 $201 forward single #
+-275 loop $-1 $-1 $276 $274 #
+-276 coedge $-1 $277 $279 $273 $77 forward $275 $-1 #
+-277 coedge $-1 $278 $276 $284 $113 forward $275 $-1 #
+-278 coedge $-1 $279 $277 $289 $115 forward $275 $-1 #
+-279 coedge $-1 $276 $278 $294 $117 forward $275 $-1 #
+-280 face $-1 $285 $281 $267 $-1 $198 forward single #
+-281 loop $-1 $-1 $282 $280 #
+-282 coedge $-1 $283 $284 $272 $79 forward $281 $-1 #
+-283 coedge $-1 $284 $282 $290 $119 forward $281 $-1 #
+-284 coedge $-1 $282 $283 $277 $113 reversed $281 $-1 #
+-285 face $-1 $291 $286 $267 $-1 $199 forward single #
+-286 loop $-1 $-1 $287 $285 #
+-287 coedge $-1 $288 $290 $271 $81 forward $286 $-1 #
+-288 coedge $-1 $289 $287 $295 $121 forward $286 $-1 #
+-289 coedge $-1 $290 $288 $278 $115 reversed $286 $-1 #
+-290 coedge $-1 $287 $289 $283 $119 reversed $286 $-1 #
+-291 face $-1 $-1 $292 $267 $-1 $200 forward single #
+-292 loop $-1 $-1 $293 $291 #
+-293 coedge $-1 $294 $295 $270 $83 forward $292 $-1 #
+-294 coedge $-1 $295 $293 $279 $117 reversed $292 $-1 #
+-295 coedge $-1 $293 $294 $288 $121 reversed $292 $-1 #
+-296 lump $-1 $-1 $297 $2 #
+-297 shell $-1 $-1 $-1 $298 $-1 $296 #
+-298 face $-1 $304 $299 $297 $-1 $191 forward single #
+-299 loop $-1 $-1 $300 $298 #
+-300 coedge $-1 $301 $303 $273 $77 forward $299 $-1 #
+-301 coedge $-1 $302 $300 $272 $79 forward $299 $-1 #
+-302 coedge $-1 $303 $301 $271 $81 forward $299 $-1 #
+-303 coedge $-1 $300 $302 $270 $83 forward $299 $-1 #
+-304 face $-1 $310 $305 $297 $-1 $205 reversed single #
+-305 loop $-1 $-1 $306 $304 #
+-306 coedge $-1 $307 $309 $324 $127 reversed $305 $-1 #
+-307 coedge $-1 $308 $306 $318 $125 reversed $305 $-1 #
+-308 coedge $-1 $309 $307 $312 $123 reversed $305 $-1 #
+-309 coedge $-1 $306 $308 $273 $77 reversed $305 $-1 #
+-310 face $-1 $315 $311 $297 $-1 $202 reversed single #
+-311 loop $-1 $-1 $312 $310 #
+-312 coedge $-1 $313 $314 $308 $123 forward $311 $-1 #
+-313 coedge $-1 $314 $312 $317 $129 reversed $311 $-1 #
+-314 coedge $-1 $312 $313 $272 $79 reversed $311 $-1 #
+-315 face $-1 $321 $316 $297 $-1 $203 reversed single #
+-316 loop $-1 $-1 $317 $315 #
+-317 coedge $-1 $318 $320 $313 $129 forward $316 $-1 #
+-318 coedge $-1 $319 $317 $307 $125 forward $316 $-1 #
+-319 coedge $-1 $320 $318 $323 $131 reversed $316 $-1 #
+-320 coedge $-1 $317 $319 $271 $81 reversed $316 $-1 #
+-321 face $-1 $-1 $322 $297 $-1 $204 reversed single #
+-322 loop $-1 $-1 $323 $321 #
+-323 coedge $-1 $324 $325 $319 $131 forward $322 $-1 #
+-324 coedge $-1 $325 $323 $306 $127 forward $322 $-1 #
+-325 coedge $-1 $323 $324 $270 $83 reversed $322 $-1 #
+-326 lump $-1 $-1 $327 $3 #
+-327 shell $-1 $-1 $-1 $328 $-1 $326 #
+-328 face $-1 $334 $329 $327 $-1 $206 reversed single #
+-329 loop $-1 $-1 $330 $328 #
+-330 coedge $-1 $331 $333 $357 $133 forward $329 $-1 #
+-331 coedge $-1 $332 $330 $348 $137 reversed $329 $-1 #
+-332 coedge $-1 $333 $331 $342 $135 reversed $329 $-1 #
+-333 coedge $-1 $330 $332 $336 $139 reversed $329 $-1 #
+-334 face $-1 $340 $335 $327 $-1 $210 forward single #
+-335 loop $-1 $-1 $336 $334 #
+-336 coedge $-1 $337 $339 $333 $139 forward $335 $-1 #
+-337 coedge $-1 $338 $336 $345 $155 forward $335 $-1 #
+-338 coedge $-1 $339 $337 $360 $147 reversed $335 $-1 #
+-339 coedge $-1 $336 $338 $354 $151 reversed $335 $-1 #
+-340 face $-1 $346 $341 $327 $-1 $208 forward single #
+-341 loop $-1 $-1 $342 $340 #
+-342 coedge $-1 $343 $345 $332 $135 forward $341 $-1 #
+-343 coedge $-1 $344 $342 $351 $153 forward $341 $-1 #
+-344 coedge $-1 $345 $343 $361 $143 reversed $341 $-1 #
+-345 coedge $-1 $342 $344 $337 $155 reversed $341 $-1 #
+-346 face $-1 $352 $347 $327 $-1 $209 forward single #
+-347 loop $-1 $-1 $348 $346 #
+-348 coedge $-1 $349 $351 $331 $137 forward $347 $-1 #
+-349 coedge $-1 $350 $348 $356 $149 forward $347 $-1 #
+-350 coedge $-1 $351 $349 $362 $145 reversed $347 $-1 #
+-351 coedge $-1 $348 $350 $343 $153 reversed $347 $-1 #
+-352 face $-1 $358 $353 $327 $-1 $207 reversed single #
+-353 loop $-1 $-1 $354 $352 #
+-354 coedge $-1 $355 $357 $339 $151 forward $353 $-1 #
+-355 coedge $-1 $356 $354 $363 $141 forward $353 $-1 #
+-356 coedge $-1 $357 $355 $349 $149 reversed $353 $-1 #
+-357 coedge $-1 $354 $356 $330 $133 reversed $353 $-1 #
+-358 face $-1 $-1 $359 $327 $-1 $211 forward single #
+-359 loop $-1 $-1 $360 $358 #
+-360 coedge $-1 $361 $363 $338 $147 forward $359 $-1 #
+-361 coedge $-1 $362 $360 $344 $143 forward $359 $-1 #
+-362 coedge $-1 $363 $361 $350 $145 forward $359 $-1 #
+-363 coedge $-1 $360 $362 $355 $141 reversed $359 $-1 #
+-364 lump $-1 $-1 $365 $4 #
+-365 shell $-1 $-1 $-1 $366 $-1 $364 #
+-366 face $-1 $371 $367 $365 $-1 $215 reversed single #
+-367 loop $-1 $-1 $368 $366 #
+-368 coedge $-1 $369 $370 $383 $163 reversed $367 $-1 #
+-369 coedge $-1 $370 $368 $451 $167 reversed $367 $-1 #
+-370 coedge $-1 $368 $369 $397 $87 reversed $367 $-1 #
+-371 face $-1 $376 $372 $365 $-1 $216 forward single #
+-372 loop $-1 $-1 $373 $371 #
+-373 coedge $-1 $374 $375 $370 $87 forward $372 $-1 #
+-374 coedge $-1 $375 $373 $449 $177 reversed $372 $-1 #
+-375 coedge $-1 $373 $374 $407 $171 forward $372 $-1 #
+-376 face $-1 $381 $377 $365 $-1 $223 reversed single #
+-377 loop $-1 $-1 $378 $376 #
+-378 coedge $-1 $379 $380 $369 $167 forward $377 $-1 #
+-379 coedge $-1 $380 $378 $450 $175 reversed $377 $-1 #
+-380 coedge $-1 $378 $379 $374 $177 forward $377 $-1 #
+-381 face $-1 $-1 $382 $365 $-1 $221 reversed single #
+-382 loop $-1 $-1 $383 $381 #
+-383 coedge $-1 $384 $385 $368 $163 forward $382 $-1 #
+-384 coedge $-1 $385 $383 $375 $171 reversed $382 $-1 #
+-385 coedge $-1 $383 $384 $379 $175 forward $382 $-1 #
+-386 lump $-1 $-1 $387 $5 #
+-387 shell $-1 $-1 $-1 $388 $-1 $386 #
+-388 face $-1 $393 $389 $387 $-1 $212 forward single #
+-389 loop $-1 $-1 $390 $388 #
+-390 coedge $-1 $391 $392 $370 $87 forward $389 $-1 #
+-391 coedge $-1 $392 $390 $419 $165 reversed $389 $-1 #
+-392 coedge $-1 $390 $391 $405 $157 reversed $389 $-1 #
+-393 face $-1 $398 $394 $387 $-1 $216 reversed single #
+-394 loop $-1 $-1 $395 $393 #
+-395 coedge $-1 $396 $397 $375 $171 reversed $394 $-1 #
+-396 coedge $-1 $397 $395 $374 $177 forward $394 $-1 #
+-397 coedge $-1 $395 $396 $370 $87 reversed $394 $-1 #
+-398 face $-1 $403 $399 $387 $-1 $222 reversed single #
+-399 loop $-1 $-1 $400 $398 #
+-400 coedge $-1 $401 $402 $391 $165 forward $399 $-1 #
+-401 coedge $-1 $402 $400 $374 $177 reversed $399 $-1 #
+-402 coedge $-1 $400 $401 $429 $173 reversed $399 $-1 #
+-403 face $-1 $-1 $404 $387 $-1 $218 reversed single #
+-404 loop $-1 $-1 $405 $403 #
+-405 coedge $-1 $406 $407 $392 $157 forward $404 $-1 #
+-406 coedge $-1 $407 $405 $402 $173 forward $404 $-1 #
+-407 coedge $-1 $405 $406 $375 $171 forward $404 $-1 #
+-408 lump $-1 $-1 $409 $6 #
+-409 shell $-1 $-1 $-1 $410 $-1 $408 #
+-410 face $-1 $415 $411 $409 $-1 $213 forward single #
+-411 loop $-1 $-1 $412 $410 #
+-412 coedge $-1 $413 $414 $391 $165 forward $411 $-1 #
+-413 coedge $-1 $414 $412 $439 $89 forward $411 $-1 #
+-414 coedge $-1 $412 $413 $427 $159 reversed $411 $-1 #
+-415 face $-1 $420 $416 $409 $-1 $222 forward single #
+-416 loop $-1 $-1 $417 $415 #
+-417 coedge $-1 $418 $419 $402 $173 forward $416 $-1 #
+-418 coedge $-1 $419 $417 $374 $177 forward $416 $-1 #
+-419 coedge $-1 $417 $418 $391 $165 reversed $416 $-1 #
+-420 face $-1 $425 $421 $409 $-1 $217 reversed single #
+-421 loop $-1 $-1 $422 $420 #
+-422 coedge $-1 $423 $424 $374 $177 reversed $421 $-1 #
+-423 coedge $-1 $424 $422 $446 $169 reversed $421 $-1 #
+-424 coedge $-1 $422 $423 $413 $89 reversed $421 $-1 #
+-425 face $-1 $-1 $426 $409 $-1 $219 reversed single #
+-426 loop $-1 $-1 $427 $425 #
+-427 coedge $-1 $428 $429 $414 $159 forward $426 $-1 #
+-428 coedge $-1 $429 $427 $423 $169 forward $426 $-1 #
+-429 coedge $-1 $427 $428 $402 $173 reversed $426 $-1 #
+-430 lump $-1 $-1 $431 $7 #
+-431 shell $-1 $-1 $-1 $432 $-1 $430 #
+-432 face $-1 $437 $433 $431 $-1 $214 reversed single #
+-433 loop $-1 $-1 $434 $432 #
+-434 coedge $-1 $435 $436 $369 $167 forward $433 $-1 #
+-435 coedge $-1 $436 $434 $444 $161 reversed $433 $-1 #
+-436 coedge $-1 $434 $435 $413 $89 reversed $433 $-1 #
+-437 face $-1 $442 $438 $431 $-1 $217 forward single #
+-438 loop $-1 $-1 $439 $437 #
+-439 coedge $-1 $440 $441 $413 $89 forward $438 $-1 #
+-440 coedge $-1 $441 $439 $423 $169 forward $438 $-1 #
+-441 coedge $-1 $439 $440 $374 $177 forward $438 $-1 #
+-442 face $-1 $447 $443 $431 $-1 $220 reversed single #
+-443 loop $-1 $-1 $444 $442 #
+-444 coedge $-1 $445 $446 $435 $161 forward $443 $-1 #
+-445 coedge $-1 $446 $444 $379 $175 reversed $443 $-1 #
+-446 coedge $-1 $444 $445 $423 $169 reversed $443 $-1 #
+-447 face $-1 $-1 $448 $431 $-1 $223 forward single #
+-448 loop $-1 $-1 $449 $447 #
+-449 coedge $-1 $450 $451 $374 $177 reversed $448 $-1 #
+-450 coedge $-1 $451 $449 $379 $175 forward $448 $-1 #
+-451 coedge $-1 $449 $450 $369 $167 reversed $448 $-1 #
+-452 lump $-1 $-1 $453 $8 #
+-453 shell $-1 $-1 $-1 $454 $-1 $452 #
+-454 face $-1 $460 $455 $453 $-1 $224 reversed single #
+-455 loop $-1 $-1 $456 $454 #
+-456 coedge $-1 $457 $459 $473 $183 forward $455 $-1 #
+-457 coedge $-1 $458 $456 $465 $181 forward $455 $-1 #
+-458 coedge $-1 $459 $457 $468 $185 reversed $455 $-1 #
+-459 coedge $-1 $456 $458 $463 $179 reversed $455 $-1 #
+-460 face $-1 $466 $461 $453 $-1 $225 reversed single #
+-461 loop $-1 $-1 $462 $460 #
+-462 coedge $-1 $463 $465 $472 $187 forward $461 $-1 #
+-463 coedge $-1 $464 $462 $459 $179 forward $461 $-1 #
+-464 coedge $-1 $465 $463 $469 $189 reversed $461 $-1 #
+-465 coedge $-1 $462 $464 $457 $181 reversed $461 $-1 #
+-466 face $-1 $470 $467 $453 $-1 $227 forward single #
+-467 loop $-1 $-1 $468 $466 #
+-468 coedge $-1 $469 $469 $458 $185 forward $467 $-1 #
+-469 coedge $-1 $468 $468 $464 $189 forward $467 $-1 #
+-470 face $-1 $-1 $471 $453 $-1 $226 reversed single #
+-471 loop $-1 $-1 $472 $470 #
+-472 coedge $-1 $473 $473 $462 $187 reversed $471 $-1 #
+-473 coedge $-1 $472 $472 $456 $183 reversed $471 $-1 #
+End-of-ACIS-data
